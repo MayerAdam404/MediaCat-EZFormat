@@ -1,4 +1,4 @@
 # MediaCat-EZFormat
-This allows you to format your drive in 1click anywhere.
+This program is a free formatting app that can easily format any flash drive.
 
-WARNING: THIS PROGRAM IS DELETE ANY FILE AND DATA WHEN FORMAT!
+# WARNING!: We are not responsible for data loss or misuse of our program!
